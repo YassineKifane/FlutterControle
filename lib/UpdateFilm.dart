@@ -66,7 +66,7 @@ class _UpdateFilmState extends State<UpdateFilm> {
               }
             },
                 child: Container(child: Text("Modifer"), width: double.infinity,)),
-   
+
           ],
         ),
       )
