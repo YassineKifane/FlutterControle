@@ -1,16 +1,28 @@
-# films
+# Application: Flutter & SQLite
 
-A new Flutter project.
+Realisation d'une application Flutter & SQLite :
+- Home Page: contient une liste des films avec trois button d'ajout, modification et suppression.
+- Page d'ajout: contient un formulaire pour ajouter un nouveau film et une bouton pour valider l'ajout.
+- Page de modification: contient un formulaire pour modifier un film et une bouton pour valider les modifications.
+- Popup pour valider la suppression. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Interfaces
 
-A few resources to get you started if this is your first Flutter project:
+### Interface : Home Page
+![home1](/home1.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Interface : Ajouter
+![ajout](/ajout.jpg)
+![home2](/home2.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Interface : Modifier
+![update](/modifier.jpg)
+![home3](/home3.jpg)
+
+### Interface : Suppression
+![delete](/delete.jpg)
+![home4](/home4.jpg)
+
+# Inspirer Par 💡 :
+Youtube:  https://youtube.com/playlist?list=PLzOrKfO-MYdpDGdL4HSWAVd95PIfuR2fE 
